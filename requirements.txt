@@ -1,4 +1,7 @@
-flask
-requests
-flask_restful
-gunicorn
+PyDictionary
+wikipedia
+urllib3 
+regex
+pyttsx3
+SpeechRecognition
+google
