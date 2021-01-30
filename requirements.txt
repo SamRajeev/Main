@@ -5,3 +5,4 @@ regex
 pyttsx3
 SpeechRecognition
 google
+gunicorn
