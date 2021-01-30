@@ -1,1 +1,1 @@
-api: gunicorn DGW_main:Functions
+web: gunicorn DGW_main:Functions
